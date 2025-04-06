@@ -1,3 +1,5 @@
+![My GIF](pixelart.gif)
+
 # Main Skills
 
 ## Web Development
