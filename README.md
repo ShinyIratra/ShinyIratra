@@ -1,7 +1,7 @@
 ![My GIF](pixelart.gif)
 
 # Experience
- - **Paticipation HIU 2025** 
+ - **Participation HIU 2025** 
 
 # Main Skills
 
