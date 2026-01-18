@@ -2,11 +2,11 @@
 
 # 🌙 Welcome to my Night Orbit
   
-![My GIF](pixelart.gif)
+![My GIF](background.gif)
 
 ---
 
-### 🌌 "Coding under the moonlight, turning coffee into stardust."
+### 🌌 "Best time for coding ? Night time"
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShinyiratraB&label=Profile%20Views&color=0e1117&style=flat-square" alt="views" />
@@ -33,17 +33,26 @@ Currently exploring the vast universe of Web Development and System Programming.
 ## 🛠 My Skill Constellations
 
 ### 🌕 Frontend & UI
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nextjs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nextjs,vue&theme=dark)](https://skillicons.dev)
 
 ### 🌑 Backend & Logic
-[![My Skills](https://skillicons.dev/icons?i=nodejs,php,django,flask,py,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,django,flask,py,spring,mysql,postgres&theme=dark)](https://skillicons.dev)
 
 ### ☄️ Systems & Software
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,unity,visualstudio,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,java,unity,visualstudio,vscode&theme=dark)](https://skillicons.dev)
 
 ### 🛰 Tools & Environment
 [![My Skills](https://skillicons.dev/icons?i=obsidian,ps,postman,vercel&theme=dark)](https://skillicons.dev)
 
+---
+
+### 🏆 Best work so far
+- **Application de prédiction immobilière** : Une plateforme intelligente capable de prédire les prix du marché.
+  - **Stack** : 
+    [![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://django.com)
+    [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://postgresql.org)
+    [![Scikit-Learn](https://skillicons.dev/icons?i=scikitlearn&theme=dark)](https://scikit-learn.org)
+  - **Cartographie** : Intégration interactive avec **Leaflet.js**.
 ---
 
 ## 🌙 Get in Touch
