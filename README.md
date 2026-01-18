@@ -48,12 +48,15 @@ Currently exploring the vast universe of Web Development and System Programming.
 
 ## 🏆 Featured Project
 
+Voici la version traduite en anglais, avec un vocabulaire technique optimisé pour un profil GitHub professionnel :
+code Html
+
 <div align="center">
   <table width="100%">
     <tr>
       <td align="center" width="100%">
         <h3>🏠 Real Estate Prediction App</h3>
-        <p><i>Une plateforme intelligente de prédiction des prix immobiliers basée sur l'analyse de données massives.</i></p>
+        <p><i>A smart real estate price prediction platform leveraging data analysis to forecast market trends.</i></p>
         <p>
           <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
           <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -61,10 +64,10 @@ Currently exploring the vast universe of Web Development and System Programming.
           <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
         </p>
         <p align="left">
-          ✨ <b>Points clés :</b><br>
-          • Modèle de Machine Learning intégré avec Scikit-Learn.<br>
-          • Interface cartographique interactive via Leaflet.js.<br>
-          • Gestion de base de données robuste avec PostgreSQL.
+          ✨ <b>Key Highlights:</b><br>
+          • Integrated Machine Learning model powered by Scikit-Learn.<br>
+          • Interactive geospatial visualization via Leaflet.js.<br>
+          • Robust database architecture and management with PostgreSQL.
         </p>
       </td>
     </tr>
