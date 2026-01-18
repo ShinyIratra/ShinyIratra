@@ -48,9 +48,6 @@ Currently exploring the vast universe of Web Development and System Programming.
 
 ## 🏆 Featured Project
 
-Voici la version traduite en anglais, avec un vocabulaire technique optimisé pour un profil GitHub professionnel :
-code Html
-
 <div align="center">
   <table width="100%">
     <tr>
