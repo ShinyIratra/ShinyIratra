@@ -9,7 +9,7 @@
 ### 🌌 "Coding under the moonlight, turning coffee into stardust."
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON_PSEUDO_GITHUB&label=Profile%20Views&color=0e1117&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=ShinyiratraB&label=Profile%20Views&color=0e1117&style=flat-square" alt="views" />
 </p>
 
 ---
@@ -19,16 +19,13 @@
 I am a developer who thrives in the quiet of the night. 
 Currently exploring the vast universe of Web Development and System Programming.
 
-**✨ Latest Milestone:**  
-Participated in **HIU 2025** 🏆
-
 ---
 
 ## 📊 Galactic Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shinyiratra&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinyiratra&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
