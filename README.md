@@ -46,13 +46,31 @@ Currently exploring the vast universe of Web Development and System Programming.
 
 ---
 
-### 🏆 Best work so far
-- **Application de prédiction immobilière** : Une plateforme intelligente capable de prédire les prix du marché.
-  - **Stack** : 
-    [![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://django.com)
-    [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://postgresql.org)
-    [![Scikit-Learn](https://skillicons.dev/icons?i=scikitlearn&theme=dark)](https://scikit-learn.org)
-  - **Cartographie** : Intégration interactive avec **Leaflet.js**.
+## 🏆 Featured Project
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="100%">
+        <h3>🏠 Real Estate Prediction App</h3>
+        <p><i>Une plateforme intelligente de prédiction des prix immobiliers basée sur l'analyse de données massives.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+          <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+        </p>
+        <p align="left">
+          ✨ <b>Points clés :</b><br>
+          • Modèle de Machine Learning intégré avec Scikit-Learn.<br>
+          • Interface cartographique interactive via Leaflet.js.<br>
+          • Gestion de base de données robuste avec PostgreSQL.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 🌙 Get in Touch
